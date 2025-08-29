@@ -1,0 +1,33 @@
+{
+  "name": "npm-gestion-de-paquetes-y-dependencias-js",
+  "version": "1.0.0",
+  "description": "Curso de NPM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "node": "node src/index.js && node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruizamdev/NPM-Gestion-de-Paquetes-y-Dependencias-JS.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Armando Ruiz @ruizamdev <artmx@proton.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruizamdev/NPM-Gestion-de-Paquetes-y-Dependencias-JS/issues"
+  },
+  "homepage": "https://github.com/ruizamdev/NPM-Gestion-de-Paquetes-y-Dependencias-JS#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "moment": "^2.30.1",
+    "react": "^19.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.34.0"
+  }
+}
